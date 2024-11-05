@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-purakayastha&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-purakayastha" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **anirbanpurakayastha50@gmail.com**
 
