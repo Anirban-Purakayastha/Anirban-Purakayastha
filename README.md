@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Anirban Purakayastha</h1>
 <h3 align="center">An aspiring Data scientist</h3>
 
@@ -10,6 +9,8 @@
 - 📫 How to reach me **anirbanpurakayastha50@gmail.com**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Anirban-Purakayastha**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
