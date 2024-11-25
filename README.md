@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-purakayastha&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-purakayastha" /> </p>
+
 
 - 🌱 I’m currently learning **machine learning**
 
