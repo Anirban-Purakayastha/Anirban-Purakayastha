@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **anirbanpurakayastha50@gmail.com**
 
